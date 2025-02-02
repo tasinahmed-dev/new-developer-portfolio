@@ -68,3 +68,9 @@ a {
     background-repeat: no-repeat;
     background-position: left center;
 }
+
+/* footer-section */
+.footer-section {
+    text-align: center;
+    padding: 50px 0;
+}
