@@ -42,3 +42,29 @@ a {
 .reverse {
     flex-direction: row-reverse;
 }
+
+/* Experiance-section */
+.item {
+    margin: 0 5%;
+    box-shadow: 15px 15px 30px lightgray;
+    padding: 2%;
+    background-color: white;
+}
+.item h4 {
+    color:#FFA500 ;
+}
+#Senior {
+    border-left: 5px solid;
+    border-image: linear-gradient(green, cyan);
+    border-image-slice: 1;
+}
+#Junior{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.experiance-section {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
