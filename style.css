@@ -34,6 +34,11 @@ a {
 }
 
 /* Dream section */
+.Dream-Section {
+    background-image:url(dream-bg.png) ;
+    background-repeat:no-repeat;
+    background-position: right center;
+}
 .reverse {
     flex-direction: row-reverse;
 }
